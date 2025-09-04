@@ -1,6 +1,6 @@
 # Tec 40-45 Gas Planning Sheet
 
-A **CustomTkinter-based desktop application** for scuba gas planning.  
+A **CustomTkinter-based desktop application** for scuba technical gas planning.  
 This tool helps divers and instructors quickly calculate and document gas requirements, rock bottom reserves, decompression stops, and emergency reserves for **Tec 40–45 level dives**.  
 
 The app supports saving/loading plans as JSON, exporting to PDF for record-keeping, and includes built-in calculation logic for ATA, SAC, gas volumes, and reserve estimates.
