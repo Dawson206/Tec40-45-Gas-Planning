@@ -29,12 +29,11 @@ The app supports saving/loading plans as JSON, exporting to PDF for record-keepi
   - Export full plan to **PDF** (formatted tables with ReportLab)  
 - **Utility buttons**: Save, Load, Clear All, Export to PDF
 
----
-
 ## 📦 Installation
 
 Download and Run .EXE found in releases
 
+---
 
 ## ⚠️ Disclaimer
 
